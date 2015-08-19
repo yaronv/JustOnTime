@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Smart Alarm</string>
+
+    <string name="add_alarm_form_title">Add a New Smart Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_alarm">AddAlarmActivity</string>
+    <string name="add_alarm_form_from">Your location</string>
+    <string name="add_alarm_form_to">Destination</string>
+    <string name="add_alarm_form_extra_time">Extra minutes you need</string>
+    <string name="add_alarm_form_submit">Set Alarm</string>
+
+    <string name="service_not_available">Location service is not available</string>
+    <string name="invalid_lat_long_used">Invalid long/lat used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_geocoder_available">No Geocoder is available</string>
+    <string name="place_details">Place Details</string>
+
+    <string name="settings_user_name">What is your full name?</string>
+    <string name="settings_set_extra_minutes">How much time you need to get ready?</string>
+    <string name="save_settings_button">Save</string>
+
+    <string name="gender_select">Select your gender</string>
+    <string-array name="gender_array">
+        <item>Select your gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="ready_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>75</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="snooze_time_array">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string name="title_activity_alarm_screen">AlarmScreenActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="alarm_not_available">N/A</string>
+    <string name="alarm_time_calculating">calculating...</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="alarm_go_get_ready">Go get ready...</string>
+    <string name="alarm_time_to_go_out">It\'s time to hit the road...</string>
+
+    <string name="add_alarm_dest_title">Where do you need to be?</string>
+    <string name="add_alarm_ready_time_title">Time you need to get ready</string>
+    <string name="add_alarm_time_title">What time you need to be there?</string>
+</resources>
