@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:id="@+id/alarm_ring_time"
+            android:layout_gravity="center"
+            android:hint="Time"
+            android:fontFamily="sans-serif-light"
+            android:textSize="50dp"
+            android:textIsSelectable="true"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Traffic time is:"
+            android:id="@+id/alarm_traffic_time"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:textSize="18dp"
+            android:textIsSelectable="true"
+            android:layout_marginTop="70dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_time_calculating"
+            android:id="@+id/alarm_traffic_time_value"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:textSize="16dp"
+            android:textIsSelectable="true"
+            android:layout_marginTop="95dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alarm_notification_sound"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_notifications_active_black_128px"
+            android:layout_marginTop="-80dp"
+            android:focusableInTouchMode="true"
+            android:tint="@color/ColorPrimary"
+            android:background="@null" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alarm_screen_subject"
+            android:layout_gravity="center_horizontal|top"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginTop="40dp"
+            android:singleLine="false" />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:rowCount="1"
+            android:columnCount="1">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/alarm_confirm_button"
+                android:textColor="@android:color/white"
+                android:src="@drawable/ic_check_circle_black_48dp"
+                android:tint="@color/ConfirmColor"
+                android:background="@null"
+                android:layout_column="0"
+                android:layout_row="0"
+                android:layout_gravity="left" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/alarm_snooze_button"
+                android:layout_gravity="right"
+                android:textColor="@android:color/white"
+                android:src="@drawable/ic_snooze_black_48dp"
+                android:tint="@color/ConfirmColor"
+                android:background="@null"
+                android:layout_column="0"
+                android:layout_row="0" />
+        </GridLayout>
+
+    </FrameLayout>
+</LinearLayout>

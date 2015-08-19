@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#ff34495e</color>
+    <color name="ColorPrimaryDark">#ff2c3e50</color>
+    <color name="ColorPrimaryLight">#ff7fa7b9</color>
+    <color name="NavigationBarColor">#ff465a65</color>
+    <color name="FabColor">#ff2c3e50</color>
+    <color name="PrimaryRedColor">#ffC62828</color>
+
+    <color name="ErrorColor">#ffC62828</color>
+    <color name="ConfirmColor">#ff43A047</color>
+    <color name="TextColor">#ff333333</color>
+    <color name="TextColorTrans">#aaaaaa</color>
+    <color name="LightTextColor">#ffffffff</color>
+    <color name="ControlNormal">#ffffffff</color>
+    <color name="ControlActive">#ffcccccc</color>
+    <color name="ControlHighlight">#ffcccccc</color>
+
+    <color name="Separator">#ff95a5a6</color>
+
+    <color name="AlarmListItemBG">#80f5f5f5</color>
+</resources>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-8cad6ad6497e6dceaaa4b0337425155a4af59c1d.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-cd105ad58caf56fe9a17b266fe4ecbaadb482ef2.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-8f7d3cdd7c050bc00686ee8662bbf0b88b15f0a8.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-d3b40715ddc5621040a1383e1b4dba1178560b2d.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-dcbd233f91c5becd66cfa8f2d442b0a3f51b03ac.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-e0852b6d600cff3a5fe7afd924aacd66dbb45aa0.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-78b687819eab3dd0e09390fe31eb7ef865ffe693.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-c0a9427ed4c1e392e658c4c2fd31558d2b418fd8.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-dc31b50234e912552711bc188556a63d6b49b7fa.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-847f81f975dd64ba2a7ae264b732f6ce238f35f7.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-debe35cecfa0e5f43c282adc7075a86079612982.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-bc2ec4d6f904fdce6970118220bb6c4f56906d5e.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-96767a5fa67c33046285d162c20626156665c9ce.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-804cafd459d78223833a9e27965f5fa041b597c7.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-8888381456e48678a46941afe3b0f098b34fdc13.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-9fc271c601571d6273b688ce52de7818d8f00b7d.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-5078a882d5f9a0d3cffa5915da4098c491ecd846.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-64a1f4b82cb458e14b66b3fefe173feab5996e03.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-3dc26dd541fbfa1fa466f9a2688b90d6165617d3.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-0066ee280737ce06e63c92bf112a1939649f7859.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-c0fecc41fa0551bba8c11df23d6550e4357726ac.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-1242122be4c43c534e9e1c931302a47bfed29884.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/classes-6b47b008e00eb0aab9840ec81d5ca8afd247f5db.jar" />
+    </item>
+    <item
+        jar="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-779359202bcdc1bda2b16af36450dce8c2713abc.jar" />
+    </item>
+    <item
+        jar="/home/yaron/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/yaron/AndroidStudioProjects/JustOnTime/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-de045b7a0440613bb6cda0b69c7da1778b94620a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:layout_weight="1"
+    android:id="@+id/empty_alarm_list_row"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:id="@+id/empty_alarm_list"
+            android:textSize="30dp"
+            android:text="Empty"
+            android:focusable="false"
+            android:editable="false"
+            android:textColor="@color/TextColorTrans"
+            android:fontFamily="sans-serif-light"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginTop="20dp" />
+
+
+</FrameLayout>

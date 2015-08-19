@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="1"
+        android:rowCount="2">
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="5dp"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:layout_margin="10dp">
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:inputType="text"
+                        android:id="@+id/settings_fullname_title"
+                        android:textSize="15dp"
+                        android:textColor="@color/LightTextColor"
+                        android:text="Full Name:" />
+
+                </FrameLayout>
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center">
+
+                    <EditText
+                        android:id="@+id/settings_full_name"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/LightTextColor"
+                        android:inputType="text"
+                        android:layout_width="fill_parent"
+                        android:theme="@style/darkInput">
+                    </EditText>
+                </FrameLayout>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:inputType="text"
+                        android:id="@+id/settings_get_ready_title"
+                        android:textSize="15dp"
+                        android:textColor="@color/LightTextColor"
+                        android:layout_marginTop="20dp"
+                        android:text="Get Ready Time:" />
+
+                </FrameLayout>
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center">
+
+                    <Spinner
+                        android:id="@+id/settings_extra_time"
+                        android:layout_width="60dp"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/ready_time_array"
+                        android:theme="@style/mySpinnerItemStyle"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginLeft="-10dp"
+                        android:dropDownWidth="85dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Minutes"
+                        android:id="@+id/settings_minutes_text"
+                        android:layout_gravity="right|center_vertical"
+                        android:layout_marginTop="10dp" />
+
+
+                </FrameLayout>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:inputType="text"
+                        android:id="@+id/settings_snooze_time_title"
+                        android:textSize="15dp"
+                        android:textColor="@color/LightTextColor"
+                        android:layout_marginTop="20dp"
+                        android:text="Snooze Delay:" />
+
+                </FrameLayout>
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center">
+
+                    <Spinner
+                        android:id="@+id/settings_snooze_delay"
+                        android:layout_width="60dp"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/snooze_time_array"
+                        android:theme="@style/mySpinnerItemStyle"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginLeft="-10dp"
+                        android:dropDownWidth="85dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Minutes"
+                        android:id="@+id/settings_minutes_text2"
+                        android:layout_gravity="right|center_vertical"
+                        android:layout_marginTop="10dp" />
+
+                </FrameLayout>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:inputType="text"
+                        android:id="@+id/settings_gender_title"
+                        android:textSize="15dp"
+                        android:hint=""
+                        android:textColor="@color/LightTextColor"
+                        android:text="Choose Gender:"
+                        android:layout_marginTop="20dp" />
+
+                </FrameLayout>
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center">
+
+                    <Spinner
+                        android:id="@+id/gender_select_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/gender_array"
+                        android:prompt="@string/gender_select"
+                        android:layout_marginTop="20dp"
+                        android:theme="@style/mySpinnerItemStyle"
+                        android:layout_marginLeft="-10dp" />
+                </FrameLayout>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="20dp">
+                <FrameLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1">
+
+                </FrameLayout>
+            </TableRow>
+        </TableLayout>
+
+        <ImageButton
+            android:id="@+id/save_settings_submit"
+            android:layout_height="wrap_content"
+            android:onClick="submitSaveSettings"
+            android:layout_width="fill_parent"
+            android:tint="@color/ColorPrimaryLight"
+            android:background="@color/FabColor"
+            android:textSize="20dp"
+            android:src="@drawable/ic_check_circle_black_48dp"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:layout_gravity="bottom">
+        </ImageButton>
+
+    </GridLayout>
+
+</RelativeLayout>

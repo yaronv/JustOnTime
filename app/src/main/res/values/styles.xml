@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <!--<item name="navigationBarColor">@color/NavigationBarColor</item>-->
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <!--<item name="android:textColor">@color/LightTextColor</item>-->
+        <!--<item name="android:checkMark">@color/LightTextColor</item>-->
+        <!--<item name="android:textAppearance">@color/LightTextColor</item>-->
+        <!--<item name="android:popupBackground">@color/ColorPrimary</item>-->
+        <!--<item name="android:background">@null</item>-->
+
+        <!--<item name="colorControlNormal">@color/ControlNormal</item>-->
+        <!--<item name="colorControlActivated">@color/ControlActive</item>-->
+        <!--<item name="colorControlHighlight">@color/ControlHighlight</item>-->
+    </style>
+
+    <style name="timesSpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+
+
+    </style>
+
+    <style name="darkInput">
+        <!--<item name="colorControlNormal">@color/ControlNormal</item>-->
+        <!--<item name="colorControlActivated">@color/ControlActive</item>-->
+        <!--<item name="colorControlHighlight">@color/ControlHighlight</item>-->
+    </style>
+
+    <style name="myTimePicker">
+
+    </style>
+
+
+
+</resources>
